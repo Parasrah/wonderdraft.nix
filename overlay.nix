@@ -1,5 +1,5 @@
 self: super:
 
 {
-  dungeondraft = super.callPackage ./. {};
+  wonderdraft = super.callPackage ./. {};
 }
